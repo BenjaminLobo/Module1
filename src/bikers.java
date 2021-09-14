@@ -1,3 +1,11 @@
+/*Five Bikers Compete in a race such that they drive at
+a constant speed which may or may not be the same as
+the other. To qualify the race, the speed of a racer must
+be more than the average speed of all 5 racers. Write a
+Java program to take as input the speed of each racer
+and print back the speed of qualifying racers
+*/
+
 public class bikers {
     public static void main(String[] args)
     {
